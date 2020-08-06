@@ -1,4 +1,4 @@
-tags:
+tags:ruby
   - logic
   - conditionals
   - string manipulation
@@ -6,4 +6,3 @@ tags:
 languages:
   - ruby
 resources: 2
-8
